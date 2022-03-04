@@ -4,7 +4,7 @@
 
 The purpose of the analysis
 
-W.Avy seeks to retrun to Oahu, Hawaii to open a sufs and ice cream shop and would like to get investors for his business. The greatest concern is the weather. After a range of analysis, W. Avy desires additional information on temperature trends for the months of June and December. Using Squalchemy, SQLite and Flask, we seek to assist W.Avy with these information and present same in a manner of interest to the investors.
+W.Avy seeks to return to Oahu, Hawaii to open a surfs and ice cream shop and would like to get investors for his business. The greatest concern is the weather. After a range of analysis, W. Avy desires additional information on temperature trends for the months of June and December. Using Squalchemy, SQLite and Flask, we seek to assist W.Avy with these information and present same in a manner of interest to the investors.
 
 ***Results***
 
