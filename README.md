@@ -11,11 +11,11 @@ W.Avy seeks to retrun to Oahu, Hawaii to open a sufs and ice cream shop and woul
 
 *Three key differences in weather*
 
-* Tempertures on the month of June  of June range from 64 to 85 while those for December were lower ranging from 56 - 83.
+* Tempertures on the month of June  of June range from 64 to 85 while those for December were lower ranging from 56 - 83. ( Please see Cells 15 and 19 on Surfs_Up)
 
-* The highest and lowest temperatures for the June ranged within the middle of the month while those for December are at the towards the beginning and end of the month.
+* The highest and lowest temperatures for the June ranged within the middle of the month while those for December are at the towards the beginning and end of the month. ( Please see Cell 10 and 16)
 
-* A summary of the statistics reveal an average drop of 3 points per central tendency measurements.
+* A summary of the statistics reveal an average drop of 3 points per central tendency measurements. Please see Cells 15 and 19)
 
 ***Summary***
 
